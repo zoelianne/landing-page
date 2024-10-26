@@ -1,0 +1,21 @@
+/* Add CSS Styling */
+
+.avatar-p {
+    height: 300px;
+    width: 300px;
+}
+
+.avatar-d {
+    height: 400px;
+    width: 200px;
+}
+
+.original-p {
+    height: 400px;
+    width: 400px;
+}
+
+.original-d {
+    height: 400px;
+    width: 400px;
+}
